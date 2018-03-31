@@ -6,3 +6,7 @@
  * @date 3/30/18
  */
 
+<template>
+    <h1>Hello world!</h1>
+</template>
+
